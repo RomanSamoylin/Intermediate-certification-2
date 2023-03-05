@@ -1,4 +1,4 @@
-package mid.sem.q;
+package toys;
 
 public class Main {
     public static void main(String[] args) {
