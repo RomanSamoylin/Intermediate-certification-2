@@ -6,7 +6,7 @@ public class Robot extends Toy{
     public Robot(int id, String name, int chance) {
         super(name, chance);
         setId(id);
-        this.totalQTY++;
+        Robot.totalQTY++;
     }
 
     public static int getTotalQTY() {
