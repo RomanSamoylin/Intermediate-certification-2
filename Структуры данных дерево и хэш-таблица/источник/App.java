@@ -1,4 +1,4 @@
-package Структуры данных дерево и хэш-таблица.источник;
+
 
 import java.util.ArrayList;
 import java.util.List;  

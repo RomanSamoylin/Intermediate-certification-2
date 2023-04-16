@@ -1,4 +1,4 @@
-package Структуры данных дерево и хэш-таблица.источник;
+
 
 import java.util.ArrayDeque;
 import java.util.NoSuchElementException;
